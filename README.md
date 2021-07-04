@@ -1,7 +1,7 @@
 # Authentication_System
 OTP verifier using python
 
-This is a OTP verifier system which sends a 4-digit otp to the mobile number provided in the code. The mobile number should have a twilio account which can be made for free.
+A small and basic use of twilio and tkinter libraries of python. This is a OTP verifier system which sends a 4-digit otp to the mobile number provided in the code. The mobile number should have a twilio account which can be made for free.
 
 The GUI of the verifier.
 
